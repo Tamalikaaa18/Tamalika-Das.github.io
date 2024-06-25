@@ -14,9 +14,9 @@ Hi there! I'm Tamalika Das, a Bioinformatician  with a keen interest in Single-C
 
 Research interests
 ======
-- Single-Cell Transcriptomics: Analyzing gene expression at the single-cell level to uncover cellular heterogeneity and function.
-- Cancer Genomics: Investigating genetic alterations in cancer to identify potential therapeutic targets and understand tumorigenesis.
-- Network Biology: Exploring the complex interactions within biological networks to understand the underlying mechanisms of health and disease.
+- **Single-Cell Transcriptomics**: Analyzing gene expression at the single-cell level to uncover cellular heterogeneity and function.
+- **Cancer Genomics**: Investigating genetic alterations in cancer to identify potential therapeutic targets and understand tumorigenesis.
+- **Network Biology**: Exploring the complex interactions within biological networks to understand the underlying mechanisms of health and disease.
 
 Projects
 ------
