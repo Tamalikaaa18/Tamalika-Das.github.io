@@ -20,6 +20,7 @@ Research interests
 
 Projects
 ------
+
 Gene Regulatory Network
 ======
 - Gene Regulatory Network Analysis: Identification and analysis of cell-type specific GRNs using single-cell RNA sequencing data from PBMCs.
@@ -35,6 +36,7 @@ Co-expression Network
 
 Experience
 ------
+
 Master's dissertation | Quantitative and Systems Biology Lab
 ======
 - Project Supervisor : Dr. Rakesh Pandey
