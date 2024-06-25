@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi there! I'm Tamalika Das, a Bioinformatician  with a keen interest in Single-Cell Transcriptomics. I pursued my Masters in Bioinformatics from Banaras Hindu University, India. For my Master's dissertation, I worked with Dr. Rakesh Pandey in the Quantitative and Systems Biology Lab on inferring cell-type specific Gene Regulatory Networks in PBMCs and understanding the role of hub genes. I'm currently looking for positions in cancer research.
+Hi there! I'm Tamalika Das, a Bioinformatician  with a keen interest in Single-Cell Transcriptomics.  I pursued my Masters in Bioinformatics from Banaras Hindu University, India.  For my Master's dissertation, I worked with Dr. Rakesh Pandey in the Quantitative and Systems Biology Lab on inferring cell-type specific Gene Regulatory Networks in PBMCs and understanding the role of hub genes. I'm currently looking for positions in cancer research.
 
 Research interests
 ======
