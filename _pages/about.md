@@ -22,11 +22,11 @@ Projects
 
 Gene Regulatory Network
 ======
-- Gene Regulatory Network Analysis: Identification and analysis of cell-type specific GRNs using single-cell RNA sequencing data from PBMCs.
-- In Silico Knockout Simulations: Simulation of gene knockouts, specifically targeting the EP300 gene, to study its impact on cellular pathways and development of Megakaryocytes.
-- CellOracle Tool: Utilization of the CellOracle tool for GRN inference and knockout simulation.
+- **Gene Regulatory Network Analysis**: Identification and analysis of cell-type specific GRNs using single-cell RNA sequencing data from PBMCs.
+- **In Silico Knockout Simulations**: Simulation of gene knockouts, specifically targeting the EP300 gene, to study its impact on cellular pathways and development of Megakaryocytes.
+- **CellOracle Tool**: Utilization of the CellOracle tool for GRN inference and knockout simulation.
 
-For more details, you can check out the GitHub repository of my Master's dissertation: (https://github.com/Tamalikaaa18/SingleCell-GRN-InsilicoPerturbation).
+For more details, you can check out the GitHub repository of my Master's dissertation: <https://github.com/Tamalikaaa18/SingleCell-GRN-InsilicoPerturbation>
 
 Co-expression Network
 ======
