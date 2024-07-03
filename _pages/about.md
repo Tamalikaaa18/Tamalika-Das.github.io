@@ -30,21 +30,21 @@ For more details, you can check out the GitHub repository of my Master's dissert
 
 Co-expression Network
 ======
-- Co-expression Tool: Identified and evaluated a suitable tool for constructing single-cell co-expression networks, focusing on its capabilities and user-friendliness for biological data analysis.
-- Initial Results: Applied the co-expression network tool to initial datasets from my research, conducting preliminary analysis to assess network structure and potential gene relationships.
+- **Co-expression Tool**: Identified and evaluated a suitable tool for constructing single-cell co-expression networks, focusing on its capabilities and user-friendliness for biological data analysis.
+- **Initial Results**: Applied the co-expression network tool to initial datasets from my research, conducting preliminary analysis to assess network structure and potential gene relationships.
 
 Experience
 ------
 
 Master's dissertation | Quantitative and Systems Biology Lab
 ======
-- Project Supervisor: Dr. Rakesh Pandey
-- Project: Construction of Gene Regulatory Networks and In-silico perturbation analysis using Single-Cell RNA-seq data of Peripheral Blood Mononuclear Cells
+- **Project Supervisor**: Dr. Rakesh Pandey
+- **Project**: Construction of Gene Regulatory Networks and In-silico perturbation analysis using Single-Cell RNA-seq data of Peripheral Blood Mononuclear Cells
 
 Summer Internship | Quantitative and Systems Biology Lab
 ======
-- Project Supervisor: Dr. Rakesh Pandey
-- Project: Construction of Co-expression Networks using Single-Cell RNA-seq Data of Chronic Myeloid Leukemia
+- **Project Supervisor**: Dr. Rakesh Pandey
+- **Project**: Construction of Co-expression Networks using Single-Cell RNA-seq Data of Chronic Myeloid Leukemia
 
 ---
 
